@@ -1,0 +1,7 @@
+Started GET "/" for 127.0.0.1 at 2018-12-15 17:20:28 +0000
+Processing by EndakController#index as HTML
+  Rendering endak/index.html.erb within layouts/application
+  Rendered endak/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 896ms (Views: 882.4ms | ActiveRecord: 0.0ms)
+
+
